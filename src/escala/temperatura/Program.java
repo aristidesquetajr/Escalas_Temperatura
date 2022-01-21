@@ -5,8 +5,6 @@
  */
 package escala.temperatura;
 
-import javax.swing.JOptionPane;
-
 /**
  *
  * @author kashiki
